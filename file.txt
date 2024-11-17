@@ -1,1 +1,2 @@
+This line to check pull conflict
 This is a new file in the feature branch
